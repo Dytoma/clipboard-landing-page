@@ -32,8 +32,8 @@ Here are some screenshots of my solution, I couldn't take the entire page's scre
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/clipboard-landing-page-ztWvKoNdbf)
+- Live Site URL: [Live site URL](https://clipboard-solution.netlify.app/)
 
 ## My process
 
