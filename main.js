@@ -267,6 +267,7 @@ tl.to(".cta__logo img", {
             start: "top 70%",
             end: "+=70px",
             toggleActions: "restart none none restart",
+            markers: true,
             scrub: 1
         },
         x: "-30%",
