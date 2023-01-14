@@ -261,18 +261,3 @@ tl.to(".cta__logo img", {
         ease: "power1.out"
     });
 
-    tl.from(".footer__links a", {
-        scrollTrigger: {
-            trigger: ".bottom",
-            start: "top 70%",
-            end: "+=70px",
-            toggleActions: "restart none none restart",
-            markers: true,
-            scrub: 1
-        },
-        x: "-30%",
-        opacity: 0,
-        duration: 1,
-        ease: "power1.out",
-        stagger: 0.5,
-    }, "+=1")
